@@ -1,5 +1,5 @@
 # Ants and Bees Classification using Transfer learning
-![Cover photo](https://github.com/MohamedElgohary23/Gold-Price-prediction-ML-/assets/141565314/9528aff7-599f-498f-9bf5-a053d25fd98a)
+![Cover photo]()
 
 A deep learning model is a network of weights whose values are optimized using a loss function during the training progress.
 The weights of the network are typically initialized randomly before the start of the training process.
@@ -9,20 +9,24 @@ We optimize the pre-trained weights further for our specific task.
 
 
 ## :star: Dataset Description
-Data set is downloaded from Kaggle : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data/discussion/445497
+Data set is splitted into Training part and testing part, each part contain two labels (Ants, Bees)
+I apply data Augmantation techniques and normaliztion techniques before Training and testing 
 
 ## :star: Libraries 
+- pytorch
 - numpy
-- pandas
-- seaborn
-- scikit-learn
+- torchvision
+- datasets
+- models
+- transforms
 
 
 ## :star: Steps
 - Exploring Data
-- Data preprocessing
-- Algorithm selection
-- Training
-- Testing
+- Data Augmantation
+- Data Normalization
+- Training :(Applying Forward propagation and Back propgation)
+- Testing : :(Applying Forward propagation)
 - Predections
+- Visualize the prediction
 
