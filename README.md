@@ -1,5 +1,5 @@
 # Ants and Bees Classification using Transfer learning
-![Cover photo](Ants and bees.jpg)
+![Cover photo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.oneindia.com%2Fimg%2F2016%2F01%2F28-1453966107-ants-honey-bee.jpg&tbnid=AoLI8o_g1muS-M&vet=12ahUKEwj5ssOckr-EAxUNUaQEHYP1AMYQMygNegUIARCOAQ..i&imgrefurl=https%3A%2F%2Fwww.oneindia.com%2Finternational%2Fhoneybees-ants-may-provide-clues-to-suicide-in-humans-1995974.html&docid=d--5T6fE0Xy5GM&w=600&h=450&q=ants%20and%20bees&ved=2ahUKEwj5ssOckr-EAxUNUaQEHYP1AMYQMygNegUIARCOAQ)
 
 A deep learning model is a network of weights whose values are optimized using a loss function during the training progress.
 The weights of the network are typically initialized randomly before the start of the training process.
